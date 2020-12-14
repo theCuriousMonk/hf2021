@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-      <p>The site is under-construction..</p>
+      <mark>The site is under-construction..</mark>
         <h1 className={styles.title}>
           <a href="#">HackerFarm🏕️</a>
         </h1>
