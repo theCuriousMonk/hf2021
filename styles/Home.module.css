@@ -62,6 +62,15 @@
   font-size: 1.5rem;
 }
 
+.base {
+  line-height: 1.5;
+  font-size: 1rem;
+}
+
+.base:hover {
+  color: #0070f3;
+}
+
 .code {
   background: #fafafa;
   border-radius: 5px;

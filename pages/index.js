@@ -61,6 +61,14 @@ export default function Home() {
     Apply for Camp
 </button>
 
+<p>
+        <br/>Camping Base: <strong className={styles.base}><a href="https://g.page/krushikutumba?share" target="_blank">Krushi Kutumba, Mysore, India</a></strong>
+        </p>
+
+        <br/>
+        <p>For information, contact at <strong className={styles.base}>hello@hackerfarm.in</strong></p>
+
+
       </main>
 
       <footer className={styles.footer}>
