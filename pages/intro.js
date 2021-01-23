@@ -69,13 +69,15 @@ export default function Intro() {
                   </ul>
                   <p>Perfect space to focus, hack into healthy lifestyle, get unwind and cherish the beautiful nature.</p>
                 </div>
-          <div class="pt-6 text-base leading-6 font-bold sm:text-lg sm:leading-7">
+          {/* <div class="pt-6 text-base leading-6 font-bold sm:text-lg sm:leading-7">
             <p>Checkout previous camp pictures:</p>
             <p>
               <a href="https://tailwindcss.com/docs" class="text-cyan-600 hover:text-cyan-700"> Read the docs &rarr; </a>
             </p>
-          </div>
+
+        </div> */}
         </div>
+
 
         </div>
 

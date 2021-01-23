@@ -51,10 +51,10 @@ export default function Home() {
             </p>
           </a>
 
-          <a href="/intro" className={styles.fullcard}>
+          {/* <a href="/intro" className={styles.fullcard}>
           <h3>&larr; Hacker 👽 Labs &rarr;</h3>
             <p>We build conscious and ethical solutions for a better future.</p>
-          </a>
+          </a> */}
         </div>
 
 <button class="bg-black hover:bg-white text-white font-semibold hover:text-black py-2 px-4 border border-white hover:border-black rounded">
@@ -78,8 +78,8 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Inspired by &nbsp;"the 10 principles of{' '}
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burning-Man.svg/1200px-Burning-Man.svg.png" alt="Burningman" className={styles.logo} />"
-         Burning Man.
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burning-Man.svg/1200px-Burning-Man.svg.png" alt="Burningman" className={styles.logo} />
+         &nbsp;Burning Man."
         </a>
       </footer>
     </div>
