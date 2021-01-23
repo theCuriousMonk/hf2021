@@ -57,9 +57,9 @@ export default function Home() {
           </a> */}
         </div>
 
-<button class="bg-black hover:bg-white text-white font-semibold hover:text-black py-2 px-4 border border-white hover:border-black rounded">
+<a href="https://forms.gle/V4QF1dJsP23NL64Z9" target="_blank" class="bg-black hover:bg-white text-white font-semibold hover:text-black py-2 px-4 border border-white hover:border-black rounded">
     Apply for Camp
-</button>
+</a>
 
 <p>
         <br/>Camping Base: <strong className={styles.base}><a href="https://g.page/krushikutumba?share" target="_blank">Krushi Kutumba, Mysore, India</a></strong>
